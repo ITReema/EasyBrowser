@@ -27,3 +27,10 @@ Simple web browser using WebKit
   <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56463326-819bc300-63da-11e9-96ee-4c35a46f8c3c.png">
 </p>
 
+## Implementation
+
+The app has two view controller scenes:
+
+1. TableViewController consists of a list of websites  
+
+2. websiteViewController contains show the selected website using WebKit
